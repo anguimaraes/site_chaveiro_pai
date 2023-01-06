@@ -113,9 +113,10 @@
 
 @media screen and (min-width: 1024px) {
     .planos__cartoes {
+        flex-wrap: wrap;
         flex-direction: row;
-        justify-content: space-between;
-        align-items: flex-end;
+        justify-content: space-around;
+        align-items: flex-start;
     }
 
     .cartao {

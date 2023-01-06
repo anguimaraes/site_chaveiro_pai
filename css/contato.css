@@ -27,3 +27,9 @@
 
     margin-top: 1rem;
 }
+
+.contato__botao:hover{
+    background-color: #0e0e10;
+    color:#fff;
+    transition: .5s;
+}

@@ -1,3 +1,7 @@
+.icone__zap{
+    height: 2rem;
+
+}
 .institucional {
     display: flex;
     flex-direction: column;
@@ -82,4 +86,11 @@
     .institucional__contato-email {
         display: block;
     }
+
+    .icone__zap{
+        height: 2rem;
+        margin-left: 3rem;
+
+    }
+
 }

@@ -57,5 +57,7 @@
 
     .sobre__imagem{
         display: block;
+        height: 35rem;
+        width: 35rem;
     }
 }

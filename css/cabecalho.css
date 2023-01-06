@@ -19,6 +19,14 @@
 
 .cabecalho__logo {
     margin-bottom: 1rem;
+    width: 40%;
+	opacity: 1;
+	transition: 400ms;
+	box-shadow: 10px 10px 10px 0 #000;
+}
+
+.cabecalho__logo:hover {
+	opacity: 0.3;
 }
 
 .cabecalho__navegacao {
@@ -33,6 +41,7 @@
     margin-right: .7rem;
     margin-bottom: 1.25rem;
     margin-left: .7rem;
+    color: #fff;
 }
 
 /*Criando a responsividade para desktop*/
